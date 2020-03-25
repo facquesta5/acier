@@ -1,0 +1,5 @@
+--- css da tabela gerada pelo cake
+desabilitar o table fixed no base.css
+
+
+

@@ -1,0 +1,84 @@
+
+@font-face {
+font-family: AlteHassBold;
+src: url('font/AlteHaasGroteskBold.ttf');
+}
+#page-wrapper {
+    border-top: 1px solid #e7e7e7;
+}
+.sidebar {
+    margin-top: 84px;
+    border-top: none;
+ }
+ .navbar-default{
+ 	border:none;
+ }
+.page-header{
+	margin-top: 20px;
+	color: #444;
+}
+.navbar-inverse .navbar-brand.logo{
+	
+}
+.navbar-brand.logo {
+color: #FEFEFE;
+font-size: 5em;
+font-weight: bold;
+font-family: Helvetica;
+text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 
+0 6px 1px rgba(0,0,0,.1), 0 0 5px rgba(0,0,0,.1), 0 1px 3px rgba(0,0,0,.3), 
+0 3px 5px rgba(0,0,0,.2), 0 5px 10px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.2), 
+0 15px 15px rgba(0,0,0,.15);
+margin: 10px 0 10px 3px;
+}
+
+.navbar-brand.logo {
+  text-align: center;
+  width: 100%;
+}
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover{
+	color: #F5F5F5;
+}
+.logo_login{
+    color: #FEFEFE;
+    font-size: 5em;
+    font-weight: bold;
+    font-family: Helvetica;
+    text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 
+    0 6px 1px rgba(0,0,0,.1), 0 0 5px rgba(0,0,0,.1), 0 1px 3px rgba(0,0,0,.3), 
+    0 3px 5px rgba(0,0,0,.2), 0 5px 10px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.2), 
+    0 15px 15px rgba(0,0,0,.15);
+    text-align: center;
+}
+.login-panel {
+    margin-top: 5%;
+}
+.login_flash{
+    margin-top:28px;
+}
+.side-nav{
+	top: 66px;
+}
+.navbar-brand{
+	padding: 15px 12px;
+	font-family: AlteHassBold;
+	font-size: 62px;
+}
+.acoes_table{
+	text-align: center; 
+	font-size: 1.2em
+}
+.success {
+    border: 1px solid #28B00D;
+    margin: 0px 10px 10px;
+    background: rgb(200, 242, 192) none repeat scroll 0% 0%;
+    padding: 5px;
+    border-radius: 5px;
+}
+.error{
+    border: 1px solid rgb(176, 13, 13);
+    margin: 0px 10px 10px;
+    background: rgb(242, 192, 192) none repeat scroll 0% 0%;
+    padding: 5px;
+    border-radius: 5px;
+}
